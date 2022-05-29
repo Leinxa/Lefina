@@ -24,11 +24,6 @@ int ItemsRemaining()
   return maksimal - jumlah;
 }
 
-int Count()
-{
-  return jumlah;
-}
-
 int MaximumSize()
 {
   return maksimal;
